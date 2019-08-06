@@ -12,6 +12,4 @@ class Backer
 
   end
 
-
-
 end
