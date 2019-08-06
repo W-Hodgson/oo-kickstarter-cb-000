@@ -1,4 +1,3 @@
-class Project 
-
+class Project
 
 end
